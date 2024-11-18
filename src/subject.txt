@@ -1,0 +1,17 @@
+Price = 0
+Container == input("would you like it in a cup or a cone").lower
+    if container == "cup"
+    Price == Price + 50
+    elif container == "cone"
+    Price = Price + 80
+    else:
+        print("not an option try again")
+Scoops = int(input("how many scoops would you like))
+        Price = Price + (100*scoops)
+Flake = input("would you like a flake? Yes or No").title
+    if flake == "yes" + 40
+    elif Flake == "No"
+        print("no extra charge")
+Sprinkle == input("do you want Sprinkles? Yes or No").title
+while sprinkle =! "Yes" or sprinkle =! "No"
+
